@@ -19,9 +19,9 @@ $ sudo npm install rxjs --save
 $ sudo npm install zone.js --save
   v0.8.11  25.9MB for 1975 items
 
-$ sudo npm install @angular/http --save
-  needs @angular/platform-browser@4.1.3
-  v4.1.3  26.9MB for 2030 items
+# $ sudo npm install @angular/http --save
+#   needs @angular/platform-browser@4.1.3
+#   v4.1.3  26.9MB for 2030 items
 
 $ sudo npm install @angular/platform-browser --save
   v4.1.3  28.6MB for 2126 items
